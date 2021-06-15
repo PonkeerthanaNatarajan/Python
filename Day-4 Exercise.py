@@ -4,21 +4,29 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> a=20
 >>> b=7
 >>> c=-15
+
 >>> #a)Dividing a by 10
 >>> a/10
 2.0
+
 >>> #b)Multiplying b by 50
 >>> b*50
 350
+
 >>> #c)Adding c by 60
 >>> c+60
 45
+
+
 >>> #2)Creating string variable:
 >>> V="MAJIC"
+
 >>> #a)Replacing 3rd character with G
 >>> V=V[:2]+"G"+V[3:]
 >>> print(V)
 MAGIC
+
+
 >>> #3)Two values (a,b) of int,float datatype
 >>> a=5
 >>> b=6.0
@@ -26,12 +34,14 @@ MAGIC
 <class 'int'>
 >>> print(type(b))
 <class 'float'>
+
 >>> #a)Converting a from int to float datatype
 >>> a=float(a)
 >>> print(a)
 5.0
 >>> print(type(a))
 <class 'float'>
+
 >>> #b)Converting b from float to int datatype
 >>> b=int(b)
 >>> print(b)

@@ -14,11 +14,11 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> c+60
 45
 >>> #2)Creating string variable:
->>> V="GINJI"
+>>> V="MAJIC"
 >>> #a)Replacing 3rd character with G
 >>> V=V[:2]+"G"+V[3:]
 >>> print(V)
-GIGJI
+MAGIC
 >>> #3)Two values (a,b) of int,float datatype
 >>> a=5
 >>> b=6.0
